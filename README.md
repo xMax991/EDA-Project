@@ -1,7 +1,6 @@
-[![Shipping files](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml)
-# ds-project-template
+# Explorative Data Analysis Project
 
-Template for creating ds simple projects
+The main goals of this reposatory is to do a EDA using the neuefische template. The data used for this task consists of house selling data from King County WA from May 2014 to May 2015 and was also provided by neuefische. For more informations see the Fetching the data and EDA files.
 
 ## Requirements
 
